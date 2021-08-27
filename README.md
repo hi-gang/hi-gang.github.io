@@ -1,1 +1,2 @@
-# hi-gang.github.io
+## hi-gang website
+**coming soon**
