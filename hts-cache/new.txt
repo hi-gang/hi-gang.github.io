@@ -1,5 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-16:31:52	63460/63460	---MCZ	200	added ('OK')	text/html	date:Fri,%2006%20May%202022%2013:31:52%20GMT	https://sites.google.com/view/hi-gang/home	C:/My%20Web%20Sites/index/sites.google.com/view/hi-gang/home.html	(from )
-16:31:53	67/67	---MCZ	200	added ('OK')	text/plain	date:Fri,%2006%20May%202022%2013:31:52%20GMT	https://sites.google.com/robots.txt		(from )
-16:31:53	14040/14040	---MC-	200	added ('OK')	text/javascript	date:Fri,%2006%20May%202022%2013:31:53%20GMT	https://apis.google.com/js/client.js?onload=gapiLoaded	C:/My%20Web%20Sites/index/apis.google.com/js/clientc932.js	(from https://sites.google.com/view/hi-gang/home)
-16:31:54	61010/61010	---MCZ	404	error ('Not%20Found')	text/html	date:Fri,%2006%20May%202022%2013:31:53%20GMT	https://sites.google.com/view/hi-gang/%22https://discord.com/widget?id=683726209171062888&theme=dark%22	C:/My%20Web%20Sites/index/sites.google.com/view/hi-gang/_https_/discord.com/widget.25fcf.delayed	(from https://sites.google.com/view/hi-gang/home)
