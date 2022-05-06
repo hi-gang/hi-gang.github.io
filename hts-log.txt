@@ -1,0 +1,22 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 06 May 2022 22:02:52 at https://sites.google.com/view/hi-gang
+(httrack -%e1 https://sites.google.com/view/hi-gang )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:03:18	Warning: 	Found for https://drive.google.com/
+22:03:18	Warning: 	File has moved from https://drive.google.com/ to https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1
+22:03:19	Warning: 	Found for https://docs.google.com/
+22:03:19	Warning: 	File has moved from https://docs.google.com/ to https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://docs.google.com/&followup=https://docs.google.com/&emr=1
+22:03:19	Warning: 	Moved Temporarily for https://sites.google.com/new/
+22:03:19	Warning: 	File has moved from https://sites.google.com/new/ to https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://sites.google.com/new/&followup=https://sites.google.com/new/
+22:03:20	Warning: 	Link https://accounts.google.com/signin/oauth/error?authError=Cg9pbnZhbGlkX3JlcXVlc3QSLFJlcXVpcmVkIHBhcmFtZXRlciBpcyBtaXNzaW5nOiByZXNwb25zZV90eXBlGjdodHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9pZGVudGl0eS9wcm90b2NvbHMvb2F1dGgyIJAD not scanned (follow robots meta tag)
+22:03:20	Warning: 	Moved Temporarily for https://sites.google.com/new/?usp
+22:03:20	Warning: 	File has moved from https://sites.google.com/new/?usp to https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://sites.google.com/new/?usp&followup=https://sites.google.com/new/?usp
+22:03:22	Warning: 	Found for https://domains.google.com/
+22:03:22	Warning: 	File has moved from https://domains.google.com/ to https://domains.google/
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 34 links scanned, 17 files written (4157810 bytes overall) [2535634 bytes received at 79238 bytes/sec], 2302052 bytes transferred using HTTP compression in 20 files, ratio 26%
+(No errors, 11 warnings, 0 messages)
